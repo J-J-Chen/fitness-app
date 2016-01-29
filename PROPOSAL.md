@@ -1,5 +1,5 @@
 # Proposal: Health and Fitness App 
-## [App that helps your stay fit and be more healthy 
+## App that helps your stay fit and be more healthy 
 Jai Bansal and Joesph Gibson 
 
 ## Needs and Opportunities
