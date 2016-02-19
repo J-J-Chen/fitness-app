@@ -22,9 +22,9 @@ deliverable, we will be adding more as we go along, fixing any bugs along the wa
 
 | Date          | Deliverable   |
 | ------------- | ------------- |
-| February 26   | Finished UI and finalized implementation|
-| April 1       | Implementations into the UI|
-| April 29      | Adding remaining Implementations and fixing any bugs|
+| February 26   | Finished one or two pages of UI|
+| April 1       | Finished UI|
+| April 29      | At least implemented half of the app|
 
 ## Reality Check
 The equipment we need is going to be simple. We both will just use GitHub to collaborate on our coding, and we will use Android Studio to code our app interface. We don't 
