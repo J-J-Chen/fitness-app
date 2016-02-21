@@ -23,7 +23,7 @@ deliverable, we will be adding more as we go along, fixing any bugs along the wa
 | Date          | Deliverable   |
 | ------------- | ------------- |
 | February 26   | Finished one or two pages of UI|
-| April 1       | Finished UI|
+| April 1       | Finished UI for app|
 | April 29      | At least implemented half of the app|
 
 ## Reality Check
