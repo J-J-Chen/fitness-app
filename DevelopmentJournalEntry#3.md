@@ -1,0 +1,5 @@
+#Development Journal Entry #3
+##February 21, 2016
+###Jai Bansal
+
+This week was actually quite the struggle for Joe and I. We started trying to get familar with Android Studio and all of its features to build our app. We worked on this for couple of hours and we were seriously helplessly lost. We are struggling to just make ourselves familar with this layout and we really don't know how we are going to accomplish making a GUI for this app, and implementing everything it all is really complex. We actually at one point decided to maybe do something else as we could still make a website maybe dealing with our idea for our fitness app. I still think that this learning curve for getting familar with Android Studio is harsh and tall but once we get it we can really start developing. I think for our first deliverable to be successful this week we have to step up our game, learn Android Studio and all of its funcionalities and push ourselves to get better because if we don't we are looking at a steep up hill climb for ourselves throughout these next three months. So yea this week was full of frustration but hopefully it gets better later on. 
