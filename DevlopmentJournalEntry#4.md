@@ -1,6 +1,7 @@
 #Development Journal Entry #4
 ##February 28, 2016
-###Jai Bansal
+#####Jai Bansal
+#####
 
 So after deleting this entry after I had it like 3/4 of the way done, I'm writing this kind of pissed off because GAH! Anyway, I started making the app this week (more like today because Procastination for the win! (not really it really is terrible)) and by god there are SO MANY MOVING PARTS. I did a lot of stuff to make the "basic" yet "not finished" GUI of the app. I'm using an Udemy course that I bought last year so I've been following along with that. In the course you make a "Notes App" and yea our app isn't a notes app but one of the functionality of it is making a note of the excercises you are going to do so that's why I started implementing all this stuff. I did so much that I really can't explain EVERY SINGLE thing but I'll give you a few basic ideas. 
 
