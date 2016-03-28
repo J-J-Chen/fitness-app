@@ -1,0 +1,5 @@
+#Development Journal Entry #6
+##March 13, 2016
+
+Joe Gibson
+Jai and I are setting up the GUI of the app. We have laid out plans for what parts of the GUI need to be completed. Hopefully over these next few days we can set up basic functionality like getting around the app and such. We updated the color scheme of the app and schemed the map for the app. Hopefully, we can come up with a basic app that has little functionality, but the ability to swipe through menus and such. At this point, our goal is to simply have that done. It might come down to us providing the user with tips on how to workout certain muscle groups. If given far more time, perhaps the app would have more functionality. But for now, that will probably be the plan. Spanish can still be a possibility though as not a lot of text has to be translated for the app. 
