@@ -4,7 +4,7 @@
     <color name="notesPrimaryBackgroundColor">#474747</color>
     <color name="notesSecondaryBackgroundColor">#004D40</color>
     <color name="notesColorBackgroundAccent">#FF9922</color>
-    <color name="notesBackgroundColor">#FAFAFA</color>
+    <color name="notesBackgroundColor">#828282</color>
     <color name="notesPrimaryTextColor">#FAFAFA</color>
     <color name="notesBody">#FAFAFA</color>
     <color name="notesCardBody">#EBEBEB</color>

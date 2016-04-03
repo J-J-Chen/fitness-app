@@ -168,7 +168,7 @@ public abstract class BaseActivity extends AppCompatActivity {
         navigationListView = (ListView) findViewById(R.id.navigation_list);
         navigationListView.setAdapter(navigationDrawerAdapter);
 
-        /**navigationListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+        navigationListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 switch (position) {
@@ -207,7 +207,7 @@ public abstract class BaseActivity extends AppCompatActivity {
                 mDrawerFragment.closeDrawer();
             }
         });
-    } */
+    }
 
 
     }
