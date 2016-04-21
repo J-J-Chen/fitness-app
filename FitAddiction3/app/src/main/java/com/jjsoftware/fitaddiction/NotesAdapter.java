@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * Created by Jai on 4/2/2016.
- */
+
 public class NotesAdapter extends RecyclerView.Adapter<NotesAdapter.NoteHolder> {
     private LayoutInflater mInflater;
     private List<Note> mNotes = Collections.emptyList();
@@ -43,6 +43,7 @@ public class NotesAdapter extends RecyclerView.Adapter<NotesAdapter.NoteHolder> 
         holder.mTitle.setText(mNotes.get(position).getTitle());
         // We have to deal with a note or a note list here, so
         // check for both types and process accordingly
+
         if (mNotes.get(position).getType().equals(AppConstant.LIST)) {
             NoteCustomList noteCustomList = new NoteCustomList(mContext);
             noteCustomList.setUpForHomeAdapter(mNotes.get(position).getDescription());
@@ -110,3 +111,4 @@ public class NotesAdapter extends RecyclerView.Adapter<NotesAdapter.NoteHolder> 
         }
     }
 }
+ **/
